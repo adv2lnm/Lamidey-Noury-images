@@ -81,14 +81,14 @@ Bienvenue dans le référentiel d'images Lamidey Noury, mettant en vedette une v
 9. <img src="VRUV1.jpg" alt="Électrode VRUV1" width="200"/> - **Électrode VRUV1**
 
 ## Electrodes monopolaire 
-  *- Anses*
+  ## Anses
 11. 10. <img src="V11A52C.jpg" alt="Électrode V11A52C" width="200"/> - **Électrode V11A52C**
 11. <img src="V11A52L.jpg" alt="Électrode V11A52L" width="200"/> - **Électrode V11A52L**
 12. <img src="V11A52M.jpg" alt="Électrode V11A52M" width="200"/> - **Électrode V11A52M**
 13. <img src="V11A82C.jpg" alt="Électrode V11A82C" width="200"/> - **Électrode V11A82C**
 14. <img src="V11A82L.jpg" alt="Électrode V11A82L" width="200"/> - **Électrode V11A82L**
 15. <img src="V11A82M.jpg" alt="Électrode V11A82M" width="200"/> - **Électrode V11A82M**
-  *- Boules*
+  ## Boules
 16. <img src="V11B32L.jpg" alt="Électrode V11B32L" width="200"/> - **Électrode V11B32L**
 17. <img src="V11B32M.jpg" alt="Électrode V11B32M" width="200"/> - **Électrode V11B32M**
 18. <img src="V11B3CI.jpg" alt="Électrode V11B3CI" width="200"/> - **Électrode V11B3CI**
@@ -101,7 +101,7 @@ Bienvenue dans le référentiel d'images Lamidey Noury, mettant en vedette une v
 25. <img src="V11B82L.jpg" alt="Électrode V11B82L" width="200"/> - **Électrode V11B82L**
 26. <img src="V11B82M.jpg" alt="Électrode V11B82M" width="200"/> - **Électrode V11B82M**
 27. <img src="V11B8CI.jpg" alt="Électrode V11B8CI" width="200"/> - **Électrode V11B8CI**
-  *- Couteaux*
+  ## Couteaux
 28. <img src="V11CC2L.jpg" alt="Électrode V11CC2L" width="200"/> - **Électrode V11CC2L**
 29. <img src="V11CC2M.jpg" alt="Électrode V11CC2M" width="200"/> - **Électrode V11CC2M**
 30. <img src="V11CCCI.jpg" alt="Électrode V11CCCI" width="200"/> - **Électrode V11CCCI**
@@ -110,7 +110,7 @@ Bienvenue dans le référentiel d'images Lamidey Noury, mettant en vedette une v
 33. <img src="V11CCDTC.png" alt="Électrode V11CCDTC" width="200"/> - **Électrode V11CCDTC**
 34. <img src="V11CCDX.png" alt="Électrode V11CCDX" width="200"/> - **Électrode V11CCDX**
 35. <img src="V11CD2L.jpg" alt="Électrode V11CD2L" width="200"/> - **Électrode V11CD2L**
-  *- Conisation*
+  ## Conisation
 1. <img src="V11GCT2.png" alt="Image V11GCT2" width="200"/> - **Electrode V11GCT2**
 2. <img src="V11GCT3.png" alt="Image V11GCT3" width="200"/> - **Electrode V11GCT3**
 3. <img src="V11GCT4.png" alt="Image V11GCT4" width="200"/> - **Electrode V11GCT4**
@@ -120,7 +120,7 @@ Bienvenue dans le référentiel d'images Lamidey Noury, mettant en vedette une v
 7. <img src="V11GCT32.png" alt="Image V11GCT32" width="200"/> - **Electrode V11GCT32**
 8. <img src="V11GCT41.png" alt="Image V11GCT41" width="200"/> - **Electrode V11GCT41**
 9. <img src="V11GCT42.png" alt="Image V11GCT42" width="200"/> - **Electrode V11GCT42**
-  *- UU*
+  ## UU
 10. <img src="VEUC1.jpg" alt="Image VEUC1" width="200"/> - **Electrode VEUC1**
 11. <img src="VEUC2-VEUCL2.png" alt="Image VEUC2-VEUCL2" width="200"/> - **Electrode VEUC2-VEUCL2**
 12. <img src="VEUCL1.JPG" alt="Image VEUCL1" width="200"/> - **Electrode VEUCL1**
