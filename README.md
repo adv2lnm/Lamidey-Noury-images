@@ -228,25 +228,48 @@ Bienvenue dans le référentiel d'images Lamidey-Noury, mettant en vedette une v
 22. ![V12PBS26S](V12PBS26S.jpg)
 23. ![VSU9000](VSU9000.jpg) - Lame VSU9000
 
-24. ## Liens vers la documentation
-Consultez la documentation complète sur l'utilisation de ces éléments dans le cadre d'un projet plus vaste [ici](https://example.com/documentation).
+24. ## Liens vers les fiches techniques
+Consultez la documentation complète sur l'utilisation de ces éléments auprès des fiches techniques en fichier PDF [ici] 
+- [FT_Lames Thermocut_FR.pdf](PDFs/FT_Lames_Thermocut_FR.pdf)
+- [Thermocut 5_FT_0722-FR.pdf](PDFs/Thermocut5_FT_0722-FR.pdf)
+- [Thermocut10_FT-0722-FR.pdf](PDFs/Thermocut10_FT-0722-FR.pdf)
+- [Pince thermoclamp et Thermocision-FT_211116-FR.pdf](PDFs/Pince_thermoclamp_et_Thermocision-FT_211116-FR.pdf)
+- [SILIPLAQUE C_ FT-0914_Rev1.pdf](PDFs/SILIPLAQUE_C_FT-0914_Rev1.pdf)
+- [FT-Pince bipolaire coudee-210129-FR.pdf](PDFs/FT-Pince_bipolaire_coudee-210129-FR.pdf)
+- [FT-Pince bipolaire droite-210129-FR.pdf](PDFs/FT-Pince_bipolaire_droite-210129-FR.pdf)
+- [FT-Pinces bipol.baïonnettes-200828-FR.pdf](PDFs/FT-Pinces_bipol_baionnettes-200828-FR.pdf)
+- [Pinces monopolaires FT 0105 FR.pdf](PDFs/Pinces_monopolaires_FT_0105_FR.pdf)
+- [FT-module Argon-0822-FR.pdf](PDFs/FT-module_Argon-0822-FR.pdf)
+- [FT-Pédales_04_2019.pdf](PDFs/FT-Pedales_04_2019.pdf)
+- [FT-Electrode aiguille FR-200827.pdf](PDFs/FT-Electrode_aiguille_FR-200827.pdf)
+- [FT-Electrode anses FR-200827.pdf](PDFs/FT-Electrode_anses_FR-200827.pdf)
+- [FT-Electrode boules FR-201007.pdf](PDFs/FT-Electrode_boules_FR-201007.pdf)
+- [FT-Electrode couteaux FR-201007.pdf](PDFs/FT-Electrode_couteaux_FR-201007.pdf)
+- [FT-Electrode gynéco conisation-221006_FR.pdf](PDFs/FT-Electrode_gyneco_conisation-221006_FR.pdf)
+- [FT-manche Derlec FR-200720.pdf](PDFs/FT-manche_Derlec_FR-200720.pdf)
+- [FT-manche Tactilec FR-200720.pdf](PDFs/FT-manche_Tactilec_FR-200720.pdf)
+- [FT-Set V11ELDI FR-210202.pdf](PDFs/FT-Set_V11ELDI_FR-210202.pdf)
+- [FT-anse FRONT LOAD -FR- 220623.pdf](PDFs/FT-anse_FRONT_LOAD_FR-220623.pdf)
+- [FT-anse Gynecare -FR-210812.pdf](PDFs/FT-anse_Gynecare_FR-210812.pdf)
+- [FT-anse Réutilisable -FR- 210812.pdf](PDFs/FT-anse_Reutilisable_FR-210812.pdf)
+- [FT-anse SIDE LOAD -FR- 220210.pdf](PDFs/FT-anse_SIDE_LOAD_FR-220210.pdf)
+- [FT-anse Universelle -FR- 220210.pdf](PDFs/FT-anse_Universelle_FR-220210.pdf)
+- [FT-Poignées SIDE LOAD_FR-210826.pdf](PDFs/FT-Poignees_SIDE_LOAD_FR-210826.pdf)
+- [FT-Adaptateurs-210521_FR.pdf](PDFs/FT-Adaptateurs-210521_FR.pdf)
+- [FT-Câbles-210521_FR.pdf](PDFs/FT-Cables-210521_FR.pdf).
 
 ## Optimisation des images
 Les images incluses dans ce référentiel sont optimisées pour une taille de fichier réduite, garantissant des temps de chargement efficaces.
 
 ## Crédits
 Nous remercions les contributeurs suivants pour leur précieuse contribution à ce projet :
-- [Nom du contributeur 1](https://github.com/contributeur1)
-- [Nom du contributeur 2](https://github.com/contributeur2)
-
-## Exemples d'utilisation
-Découvrez des exemples d'utilisation de ces ressources dans le contexte de projets réels dans le dossier [Exemples](Exemples/).
+- [Mathéo NIGAUD CEBRON](https://github.com/adv2lnm)
 
 ## Mises à jour
 Consultez la section [CHANGELOG.md](CHANGELOG.md) pour les dernières mises à jour et modifications apportées au projet.
 
 ## Support
-Besoin d'aide ou avez-vous trouvé un problème ? Soumettez une demande d'assistance sur notre [page de support](https://example.com/support) ou signalez un problème sur la [page des problèmes](https://github.com/votre-utilisateur/votre-projet/issues).
+Besoin d'aide ou avez-vous trouvé un problème ? Soumettez une demande d'assistance sur notre [page de support](https://lamidey-noury.com/) ou signalez un problème sur le courriel suivant: [mail de support](adv2@lamidey-noury.fr).
 
 ## Liens vers des ressources externes
 - [Projet externe 1](https://projetexterne1.com)
