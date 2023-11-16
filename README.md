@@ -1,22 +1,27 @@
-# Lamidey-Noury-images
-Bienvenue dans le référentiel d'images Lamidey-Noury, mettant en vedette une variété d'outils médicaux de haute qualité. Explorez les différentes catégories ci-dessous pour découvrir les produits disponibles.
+# Lamidey Noury: Images
+Bienvenue dans le référentiel d'images Lamidey Noury, mettant en vedette une variété d'outils médicaux de haute qualité. Explorez les différentes catégories ci-dessous pour découvrir les produits disponibles.
 
-## Table des Matières
-- [Adaptateurs](#adaptateurs)
-- [Argons](#argons)
-- [Câbles](#câbles)
-- [Electrodes de Résection](#electrodes-de-résection)
-- [Guéridon](#guéridon)
-- [Manches](#manches)
-- [Pédales](#pédales)
-- [Pinces Monopolaires](#pinces-monopolaires)
-- [Pinces Bipolaires](#pinces-bipolaires)
-- [Plaques](#plaques)
-- [Thermoclamp](#thermoclamp)
-- [Thermocut](#thermocut)
+<!-- Table des matières -->
+<div id="table-of-contents">
+  <h2>Table des Matières</h2>
+  <ul>
+    <li><a href="#adaptateurs">Adaptateurs</a></li>
+    <li><a href="#argons">Argons</a></li>
+    <li><a href="#câbles">Câbles</a></li>
+    <li><a href="#electrodes-de-résection">Electrodes de Résection</a></li>
+    <li><a href="#guéridon">Guéridon</a></li>
+    <li><a href="#manches">Manches</a></li>
+    <li><a href="#pédales">Pédales</a></li>
+    <li><a href="#pinces-monopolaires">Pinces Monopolaires</a></li>
+    <li><a href="#pinces-bipolaires">Pinces Bipolaires</a></li>
+    <li><a href="#plaques">Plaques</a></li>
+    <li><a href="#thermoclamp">Thermoclamp</a></li>
+    <li><a href="#thermocut">Thermocut</a></li>
+  </ul>
+</div>
 
 ## Adaptateurs
-- Adaptateurs polyvalent pour différentes applications.
+*- Adaptateurs polyvalent pour différentes applications.*
 
 1. <img src="V11KA88.jpg" alt="Adaptateur V11KA88" width="200"/> - **Adaptateur V11KA88**
 2. <img src="V11KA89.jpg" alt="Adaptateur V11KA89" width="200"/> - **Adaptateur V11KA89**
@@ -26,7 +31,7 @@ Bienvenue dans le référentiel d'images Lamidey-Noury, mettant en vedette une v
 6. <img src="V11KA98.JPG" alt="Adaptateur V11KA98" width="200"/> - **Adaptateur V11KA98**
 
 ## Argons
-- Conçu pour une administration efficace d'argon médical.
+*- Conçu pour une administration efficace d'argon médical.*
 
 1. <img src="V11A201.jpg" alt="Argon V11A201" width="200"/> - **Argon V11A201**
 2. <img src="V11A301.JPG" alt="Argon V11A301" width="200"/> - **Argon V11A301**
@@ -40,7 +45,7 @@ Bienvenue dans le référentiel d'images Lamidey-Noury, mettant en vedette une v
 10. <img src="V11A403.jpg" alt="Argon V11A403" width="200"/> - **Argon V11A403**
 
 ## Câbles
-- Câbles dotés de connecteurs de qualité pour une transmission optimale.
+*- Câbles dotés de connecteurs de qualité pour une transmission optimale.*
 
 1. <img src="V11F242-242TC.jpg" alt="Câble V11F242-242TC" width="200"/> - **Câble V11F242-242TC**
 2. <img src="V11F242.jpg" alt="Câble V11F242" width="200"/> - **Câble V11F242**
@@ -63,186 +68,198 @@ Bienvenue dans le référentiel d'images Lamidey-Noury, mettant en vedette une v
 20. <img src="V12PBS26S.jpg" alt="Câble V12PBS26S" width="200"/> - **Câble V12PBS26S**
 
 ## Electrodes de résection
-- Performance fiable pour une résection précise.
+*- Performance fiable pour une résection précise.*
   
-1. ![VRU01](VRU01.jpg) - **Électrode VRU01**
-2. ![VRU011](VRU011.jpg) - **Électrode VRU011**
-3. ![VRU11](VRU11.jpg) - **Électrode VRU11**
-4. ![VRU21](VRU21.jpg) - **Électrode VRU21**
-5. ![VRU31](VRU31.jpg) - **Électrode VRU31**
-6. ![VRU41](VRU41.jpg) - **Électrode VRU41**
-7. ![VRUB1](VRUB1.jpg) - **Électrode VRUB1**
-8. ![VRUN1](VRUN1.jpg) - **Électrode VRUN1**
-9. ![VRUV1](VRUV1.jpg) - **Électrode VRUV1**
+1. <img src="VRU01.jpg" alt="Électrode VRU01" width="200"/> - **Électrode VRU01**
+2. <img src="VRU011.jpg" alt="Électrode VRU011" width="200"/> - **Électrode VRU011**
+3. <img src="VRU11.jpg" alt="Électrode VRU11" width="200"/> - **Électrode VRU11**
+4. <img src="VRU21.jpg" alt="Électrode VRU21" width="200"/> - **Électrode VRU21**
+5. <img src="VRU31.jpg" alt="Électrode VRU31" width="200"/> - **Électrode VRU31**
+6. <img src="VRU41.jpg" alt="Électrode VRU41" width="200"/> - **Électrode VRU41**
+7. <img src="VRUB1.jpg" alt="Électrode VRUB1" width="200"/> - **Électrode VRUB1**
+8. <img src="VRUN1.jpg" alt="Électrode VRUN1" width="200"/> - **Électrode VRUN1**
+9. <img src="VRUV1.jpg" alt="Électrode VRUV1" width="200"/> - **Électrode VRUV1**
 
 ## Electrodes monopolaire 
-  - Anses
-11. ![V11A52C](V11A52C.jpg) - **Électrode V11A52C**
-12. ![V11A52L](V11A52L.jpg) - **Électrode V11A52L**
-13. ![V11A52M](V11A52M.jpg) - **Électrode V11A52M**
-14. ![V11A82C](V11A82C.jpg) - **Électrode V11A82C**
-15. ![V11A82L](V11A82L.jpg) - **Électrode V11A82L**
-16. ![V11A82M](V11A82M.jpg) - **Électrode V11A82M**
-  - Boules
-17. ![V11B32L](V11B32L.jpg) - **Électrode V11B32L**
-18. ![V11B32M](V11B32M.jpg) - **Électrode V11B32M**
-19. ![V11B3CI](V11B3CI.jpg) - **Électrode V11B3CI**
-20. ![V11B42L](V11B42L.jpg) - **Électrode V11B42L**
-21. ![V11B42M](V11B42M.jpg) - **Électrode V11B42M**
-22. ![V11B4CI](V11B4CI.jpg) - **Électrode V11B4CI**
-23. ![V11B52L](V11B52L.jpg) - **Électrode V11B52L**
-24. ![V11B52M](V11B52M.jpg) - **Électrode V11B52M**
-25. ![V11B5CI](V11B5CI.jpg) - **Électrode V11B5CI**
-26. ![V11B82L](V11B82L.jpg) - **Électrode V11B82L**
-27. ![V11B82M](V11B82M.jpg) - **Électrode V11B82M**
-28. ![V11B8CI](V11B8CI.jpg) - **Électrode V11B8CI**
-  - Couteaux
-29. ![V11CC2L](V11CC2L.jpg) - **Électrode V11CC2L**
-30. ![V11CC2M](V11CC2M.jpg) - **Électrode V11CC2M**
-31. ![V11CCCI](V11CCCI.jpg) - **Électrode V11CCCI**
-32. ![V11CCDI](V11CCDI.jpg) - **Électrode V11CCDI**
-33. ![V11CCDTC](V11CCDTC.jpg) - **Électrode V11CCDTC**
-34. ![V11CCDTC](V11CCDTC.png) - **Électrode V11CCDTC**
-35. ![V11CCDX](V11CCDX.png) - **Électrode V11CCDX**
-36. ![V11CD2L](V11CD2L.jpg) - **Électrode V11CD2L**
-  - Conisation
-
+  *- Anses*
+11. 10. <img src="V11A52C.jpg" alt="Électrode V11A52C" width="200"/> - **Électrode V11A52C**
+11. <img src="V11A52L.jpg" alt="Électrode V11A52L" width="200"/> - **Électrode V11A52L**
+12. <img src="V11A52M.jpg" alt="Électrode V11A52M" width="200"/> - **Électrode V11A52M**
+13. <img src="V11A82C.jpg" alt="Électrode V11A82C" width="200"/> - **Électrode V11A82C**
+14. <img src="V11A82L.jpg" alt="Électrode V11A82L" width="200"/> - **Électrode V11A82L**
+15. <img src="V11A82M.jpg" alt="Électrode V11A82M" width="200"/> - **Électrode V11A82M**
+  *- Boules*
+16. <img src="V11B32L.jpg" alt="Électrode V11B32L" width="200"/> - **Électrode V11B32L**
+17. <img src="V11B32M.jpg" alt="Électrode V11B32M" width="200"/> - **Électrode V11B32M**
+18. <img src="V11B3CI.jpg" alt="Électrode V11B3CI" width="200"/> - **Électrode V11B3CI**
+19. <img src="V11B42L.jpg" alt="Électrode V11B42L" width="200"/> - **Électrode V11B42L**
+20. <img src="V11B42M.jpg" alt="Électrode V11B42M" width="200"/> - **Électrode V11B42M**
+21. <img src="V11B4CI.jpg" alt="Électrode V11B4CI" width="200"/> - **Électrode V11B4CI**
+22. <img src="V11B52L.jpg" alt="Électrode V11B52L" width="200"/> - **Électrode V11B52L**
+23. <img src="V11B52M.jpg" alt="Électrode V11B52M" width="200"/> - **Électrode V11B52M**
+24. <img src="V11B5CI.jpg" alt="Électrode V11B5CI" width="200"/> - **Électrode V11B5CI**
+25. <img src="V11B82L.jpg" alt="Électrode V11B82L" width="200"/> - **Électrode V11B82L**
+26. <img src="V11B82M.jpg" alt="Électrode V11B82M" width="200"/> - **Électrode V11B82M**
+27. <img src="V11B8CI.jpg" alt="Électrode V11B8CI" width="200"/> - **Électrode V11B8CI**
+  *- Couteaux*
+28. <img src="V11CC2L.jpg" alt="Électrode V11CC2L" width="200"/> - **Électrode V11CC2L**
+29. <img src="V11CC2M.jpg" alt="Électrode V11CC2M" width="200"/> - **Électrode V11CC2M**
+30. <img src="V11CCCI.jpg" alt="Électrode V11CCCI" width="200"/> - **Électrode V11CCCI**
+31. <img src="V11CCDI.jpg" alt="Électrode V11CCDI" width="200"/> - **Électrode V11CCDI**
+32. <img src="V11CCDTC.jpg" alt="Électrode V11CCDTC" width="200"/> - **Électrode V11CCDTC**
+33. <img src="V11CCDTC.png" alt="Électrode V11CCDTC" width="200"/> - **Électrode V11CCDTC**
+34. <img src="V11CCDX.png" alt="Électrode V11CCDX" width="200"/> - **Électrode V11CCDX**
+35. <img src="V11CD2L.jpg" alt="Électrode V11CD2L" width="200"/> - **Électrode V11CD2L**
+  *- Conisation*
+1. <img src="V11GCT2.png" alt="Image V11GCT2" width="200"/> - **Electrode V11GCT2**
+2. <img src="V11GCT3.png" alt="Image V11GCT3" width="200"/> - **Electrode V11GCT3**
+3. <img src="V11GCT4.png" alt="Image V11GCT4" width="200"/> - **Electrode V11GCT4**
+4. <img src="V11GCT21.png" alt="Image V11GCT21" width="200"/> - **Electrode V11GCT21**
+5. <img src="V11GCT22.png" alt="Image V11GCT22" width="200"/> - **Electrode V11GCT22**
+6. <img src="V11GCT31.png" alt="Image V11GCT31" width="200"/> - **Electrode V11GCT31**
+7. <img src="V11GCT32.png" alt="Image V11GCT32" width="200"/> - **Electrode V11GCT32**
+8. <img src="V11GCT41.png" alt="Image V11GCT41" width="200"/> - **Electrode V11GCT41**
+9. <img src="V11GCT42.png" alt="Image V11GCT42" width="200"/> - **Electrode V11GCT42**
+  *- UU*
+10. <img src="VEUC1.jpg" alt="Image VEUC1" width="200"/> - **Electrode VEUC1**
+11. <img src="VEUC2-VEUCL2.png" alt="Image VEUC2-VEUCL2" width="200"/> - **Electrode VEUC2-VEUCL2**
+12. <img src="VEUCL1.JPG" alt="Image VEUCL1" width="200"/> - **Electrode VEUCL1**
+13. <img src="VEUCL2.jpg" alt="Image VEUCL2" width="200"/> - **Electrode VEUCL2**
+14. <img src="VEUT1.jpg" alt="Image VEUT1" width="200"/> - **Electrode VEUT1**
 
 ## Guéridon
-  - Le guéridon V10GALP est un équipement médical essentiel, offrant une surface stable et pratique pour le positionnement d'instruments et de fournitures médicales pendant les procédures.
+  *- Le guéridon V10GALP est un équipement médical essentiel, offrant une surface stable et pratique pour le positionnement d'instruments et de fournitures médicales pendant les procédures.*
     
-1. ![V10GALP](V10GALP.jpg) - **Guéridon V10GALP**
+1. <img src="V10GALP.jpg" alt="Guéridon V10GALP" width="200"/> - **Guéridon V10GALP**
  
-
 ## Manches
- - Découvrez notre gamme de manches ergonomiques conçus pour une utilisation confortable et précise lors d'interventions médicales.
+ *- Découvrez notre gamme de manches ergonomiques conçus pour une utilisation confortable et précise lors d'interventions médicales.*
 
-1. ![VSUC1](VSUC1.jpg) - **Manche VSUC1**
-2. ![VSUC15](VSUC15.jpg) - **Manche VSUC15**
-3. ![VSUC2](VSUC2.jpg) - **Manche VSUC2**
-4. ![VSUCL1](VSUCL1.jpg) - **Manche VSUCL1**
-5. ![VSUEC1](VSUEC1.jpg) - **Manche VSUEC1**
-6. ![VSUT1](VSUT1.JPG) - **Manche VSUT1**
-7. ![VSUT2](VSUT2.jpg) - **Manche VSUT2**
-8. ![V11MCT14](V11MCT14.jpg) - **Manche V11MCT14**
-9. ![V11MCT9N bis](V11MCT9N_bis.jpg) - **Manche V11MCT9N bis**
-10. ![V11MCT9N ter](V11MCT9N_ter.jpg) - **Manche V11MCT9N ter**
-11. ![V11MCT9N](V11MCT9N.jpg) - **Manche V11MCT9N**
+1. <img src="VSUC1.jpg" alt="Manche VSUC1" width="200"/> - **Manche VSUC1**
+2. <img src="VSUC15.jpg" alt="Manche VSUC15" width="200"/> - **Manche VSUC15**
+3. <img src="VSUC2.jpg" alt="Manche VSUC2" width="200"/> - **Manche VSUC2**
+4. <img src="VSUCL1.jpg" alt="Manche VSUCL1" width="200"/> - **Manche VSUCL1**
+5. <img src="VSUEC1.jpg" alt="Manche VSUEC1" width="200"/> - **Manche VSUEC1**
+6. <img src="VSUT1.JPG" alt="Manche VSUT1" width="200"/> - **Manche VSUT1**
+7. <img src="VSUT2.jpg" alt="Manche VSUT2" width="200"/> - **Manche VSUT2**
+8. <img src="V11MCT14.jpg" alt="Manche V11MCT14" width="200"/> - **Manche V11MCT14**
+9. <img src="V11MCT9N_bis.jpg" alt="Manche V11MCT9N bis" width="200"/> - **Manche V11MCT9N bis**
+10. <img src="V11MCT9N_ter.jpg" alt="Manche V11MCT9N ter" width="200"/> - **Manche V11MCT9N ter**
+11. <img src="V11MCT9N.jpg" alt="Manche V11MCT9N" width="200"/> - **Manche V11MCT9N**
   
 ## Pédales
- - Les pédales V11SM1DN et V11SM2FN offrent un contrôle précis et réactif, facilitant l'activation d'instruments médicaux compatibles.
+ *- Les pédales V11SM1DN et V11SM2FN offrent un contrôle précis et réactif, facilitant l'activation d'instruments médicaux compatibles.*
    
-1. ![V11SM1DN](V11SM1DN.jpg) - **Pédale V11SM1DN**
-2. ![V11SM2FN](V11SM2FN.jpg) - **Pédale V11SM2FN**
+1. <img src="V11SM1DN.jpg" alt="Pédale V11SM1DN" width="200"/> - **Pédale V11SM1DN**
+2. <img src="V11SM2FN.jpg" alt="Pédale V11SM2FN" width="200"/> - **Pédale V11SM2FN**
 
 ## Pinces Monopolaires
+   *- Découvrez notre sélection de pinces monopolaires offrant des performances fiables pour les procédures médicales.*
 
-1. ![VPM11D03](VPM11D03.jpg) - **Pince Monopolaire VPM11D03**
-2. ![VPM13C10](VPM13C10.jpg) - **Pince Monopolaire VPM13C10**
-3. ![VPM13D08G](VPM13D08G.JPG) - **Pince Monopolaire VPM13D08G**
-4. ![VPM13D10 (2)](VPM13D10_2.JPG) - **Pince Monopolaire VPM13D10**
-5. ![VPM13D10](VPM13D10.jpg) - **Pince Monopolaire VPM13D10**
-6. ![VPM13D12G](VPM13D12G.JPG) - **Pince Monopolaire VPM13D12G**
-7. ![VPM16B10](VPM16B10.jpg) - **Pince Monopolaire VPM16B10**
-8. ![VPM16C10](VPM16C10.jpg) - **Pince Monopolaire VPM16C10**
-9. ![VPM16D08G](VPM16D08G.JPG) - **Pince Monopolaire VPM16D08G**
-10. ![VPM16D10](VPM16D10.jpg) - **Pince Monopolaire VPM16D10**
-11. ![VPM16D12G](VPM16D12G.JPG) - **Pince Monopolaire VPM16D12G**
-12. ![VPM20B10](VPM20B10.jpg) - **Pince Monopolaire VPM20B10**
-13. ![VPM20D08G](VPM20D08G.JPG) - **Pince Monopolaire VPM20D08G**
-14. ![VPM20D10](VPM20D10.jpg) - **Pince Monopolaire VPM20D10**
-15. ![VPM20D12G](VPM20D12G.JPG) - **Pince Monopolaire VPM20D12G**
-16. ![VPM22C10](VPM22C10.jpg) - **Pince Monopolaire VPM22C10**
-17. ![VPM22C20](VPM22C20.JPG) - **Pince Monopolaire VPM22C20**
-18. ![VPM22D10](VPM22D10.jpg) - **Pince Monopolaire VPM22D10**
-19. ![VPM22D25](VPM22D25.JPG) - **Pince Monopolaire VPM22D25**
-20. ![VPMC20C10](VPMC20C10.jpg) - **Pince Monopolaire VPMC20C10**
-21. ![VPMS16D10](VPMS16D10.JPG) - **Pince Monopolaire VPMS16D10**
-22. ![VPMS20D10](VPMS20D10.JPG) - **Pince Monopolaire VPMS20D10**
-   - Découvrez notre sélection de pinces monopolaires offrant des performances fiables pour les procédures médicales.
-
+1. <img src="VPM11D03.jpg" alt="Pince Monopolaire VPM11D03" width="200"/> - **Pince Monopolaire VPM11D03**
+2. <img src="VPM13C10.jpg" alt="Pince Monopolaire VPM13C10" width="200"/> - **Pince Monopolaire VPM13C10**
+3. <img src="VPM13D08G.JPG" alt="Pince Monopolaire VPM13D08G" width="200"/> - **Pince Monopolaire VPM13D08G**
+4. <img src="VPM13D10_2.JPG" alt="Pince Monopolaire VPM13D10" width="200"/> - **Pince Monopolaire VPM13D10**
+5. <img src="VPM13D10.jpg" alt="Pince Monopolaire VPM13D10" width="200"/> - **Pince Monopolaire VPM13D10**
+6. <img src="VPM13D12G.JPG" alt="Pince Monopolaire VPM13D12G" width="200"/> - **Pince Monopolaire VPM13D12G**
+7. <img src="VPM16B10.jpg" alt="Pince Monopolaire VPM16B10" width="200"/> - **Pince Monopolaire VPM16B10**
+8. <img src="VPM16C10.jpg" alt="Pince Monopolaire VPM16C10" width="200"/> - **Pince Monopolaire VPM16C10**
+9. <img src="VPM16D08G.JPG" alt="Pince Monopolaire VPM16D08G" width="200"/> - **Pince Monopolaire VPM16D08G**
+10. <img src="VPM16D10.jpg" alt="Pince Monopolaire VPM16D10" width="200"/> - **Pince Monopolaire VPM16D10**
+11. <img src="VPM16D12G.JPG" alt="Pince Monopolaire VPM16D12G" width="200"/> - **Pince Monopolaire VPM16D12G**
+12. <img src="VPM20B10.jpg" alt="Pince Monopolaire VPM20B10" width="200"/> - **Pince Monopolaire VPM20B10**
+13. <img src="VPM20D08G.JPG" alt="Pince Monopolaire VPM20D08G" width="200"/> - **Pince Monopolaire VPM20D08G**
+14. <img src="VPM20D10.jpg" alt="Pince Monopolaire VPM20D10" width="200"/> - **Pince Monopolaire VPM20D10**
+15. <img src="VPM20D12G.JPG" alt="Pince Monopolaire VPM20D12G" width="200"/> - **Pince Monopolaire VPM20D12G**
+16. <img src="VPM22C10.jpg" alt="Pince Monopolaire VPM22C10" width="200"/> - **Pince Monopolaire VPM22C10**
+17. <img src="VPM22C20.JPG" alt="Pince Monopolaire VPM22C20" width="200"/> - **Pince Monopolaire VPM22C20**
+18. <img src="VPM22D10.jpg" alt="Pince Monopolaire VPM22D10" width="200"/> - **Pince Monopolaire VPM22D10**
+19. <img src="VPM22D25.JPG" alt="Pince Monopolaire VPM22D25" width="200"/> - **Pince Monopolaire VPM22D25**
+20. <img src="VPMC20C10.jpg" alt="Pince Monopolaire VPMC20C10" width="200"/> - **Pince Monopolaire VPMC20C10**
+21. <img src="VPMS16D10.JPG" alt="Pince Monopolaire VPMS16D10" width="200"/> - **Pince Monopolaire VPMS16D10**
+22. <img src="VPMS20D10.JPG" alt="Pince Monopolaire VPMS20D10" width="200"/> - **Pince Monopolaire VPMS20D10**
 
 ## Pinces Bipolaires
-  - Découvrez notre gamme de pinces bipolaires, conçues pour assurer une coagulation efficace avec une précision optimale.
+  *- Découvrez notre gamme de pinces bipolaires, conçues pour assurer une coagulation efficace avec une précision optimale.*
     
-1. ![VPB11C05](VPB11C05.jpg) - **Pince Bipolaire VPB11C05**
-2. ![VPB11D03](VPB11D03.JPG) - **Pince Bipolaire VPB11D03**
-3. ![VPB11D05](VPB11D05.jpg) - **Pince Bipolaire VPB11D05**
-4. ![VPB11D10](VPB11D10.JPG) - **Pince Bipolaire VPB11D10**
-5. ![VPB13C03](VPB13C03.jpg) - **Pince Bipolaire VPB13C03**
-6. ![VPB13D05](VPB13D05.jpg) - **Pince Bipolaire VPB13D05**
-7. ![VPB16B05](VPB16B05.JPG) - **Pince Bipolaire VPB16B05**
-8. ![VPB16B10](VPB16B10.JPG) - **Pince Bipolaire VPB16B10**
-9. ![VPB16C10 bis](VPB16C10_bis.jpg) - **Pince Bipolaire VPB16C10**
-10. ![VPB16C10](VPB16C10.jpg) - **Pince Bipolaire VPB16C10**
-11. ![VPB16D03](VPB16D03.jpg) - **Pince Bipolaire VPB16D03**
-12. ![VPB18C05](VPB18C05.jpg) - **Pince Bipolaire VPB18C05**
-13. ![VPB18C10](VPB18C10.JPG) - **Pince Bipolaire VPB18C10**
-14. ![VPB18D03](VPB18D03.jpg) - **Pince Bipolaire VPB18D03**
-15. ![VPB18D10](VPB18D10.JPG) - **Pince Bipolaire VPB18D10**
-16. ![VPB18D20](VPB18D20.JPG) - **Pince Bipolaire VPB18D20**
-17. ![VPB20AR10](VPB20AR10.jpg) - **Pince Bipolaire VPB20AR10**
-18. ![VPB20AV10](VPB20AV10.jpg) - **Pince Bipolaire VPB20AV10**
-19. ![VPB20B03](VPB20B03.JPG) - **Pince Bipolaire VPB20B03**
-20. ![VPB20B20](VPB20B20.jpg) - **Pince Bipolaire VPB20B20**
-21. ![VPB20C10](VPB20C10.jpg) - **Pince Bipolaire VPB20C10**
-22. ![VPB20C20](VPB20C20.JPG) - **Pince Bipolaire VPB20C20**
-23. ![VPB20D03](VPB20D03.JPG) - **Pince Bipolaire VPB20D03**
-24. ![VPB20D10 bis](VPB20D10_bis.jpg) - **Pince Bipolaire VPB20D10 bis**
-25. ![VPB20D10](VPB20D10.jpg) - **Pince Bipolaire VPB20D10**
-26. ![VPB20D20](VPB20D20.JPG) - **Pince Bipolaire VPB20D20**
-27. ![VPB22B03](VPB22B03.JPG) - **Pince Bipolaire VPB22B03**
-28. ![VPB22B10](VPB22B10.jpg) - **Pince Bipolaire VPB22B10**
-29. ![VPB22C10](VPB22C10.jpg) - **Pince Bipolaire VPB22C10**
-30. ![VPB22C20](VPB22C20.JPG) - **Pince Bipolaire VPB22C20**
-31. ![VPB22D10](VPB22D10.jpg) - **Pince Bipolaire VPB22D10**
-32. ![VPB22D20](VPB22D20.JPG) - **Pince Bipolaire VPB22D20**
-33. ![VPB25B05-bis](VPB25B05-bis.JPG) - **Pince Bipolaire VPB25B05-bis**
-34. ![VPB25B05](VPB25B05.jpg) - **Pince Bipolaire VPB25B05**
-35. ![VPB25D10](VPB25D10.JPG) - **Pince Bipolaire VPB25D10**
+1. <img src="VPB11C05.jpg" alt="Pince Bipolaire VPB11C05" width="200"/> - **Pince Bipolaire VPB11C05**
+2. <img src="VPB11D03.JPG" alt="Pince Bipolaire VPB11D03" width="200"/> - **Pince Bipolaire VPB11D03**
+3. <img src="VPB11D05.jpg" alt="Pince Bipolaire VPB11D05" width="200"/> - **Pince Bipolaire VPB11D05**
+4. <img src="VPB11D10.JPG" alt="Pince Bipolaire VPB11D10" width="200"/> - **Pince Bipolaire VPB11D10**
+5. <img src="VPB13C03.jpg" alt="Pince Bipolaire VPB13C03" width="200"/> - **Pince Bipolaire VPB13C03**
+6. <img src="VPB13D05.jpg" alt="Pince Bipolaire VPB13D05" width="200"/> - **Pince Bipolaire VPB13D05**
+7. <img src="VPB16B05.JPG" alt="Pince Bipolaire VPB16B05" width="200"/> - **Pince Bipolaire VPB16B05**
+8. <img src="VPB16B10.JPG" alt="Pince Bipolaire VPB16B10" width="200"/> - **Pince Bipolaire VPB16B10**
+9. <img src="VPB16C10_bis.jpg" alt="Pince Bipolaire VPB16C10" width="200"/> - **Pince Bipolaire VPB16C10**
+10. <img src="VPB16C10.jpg" alt="Pince Bipolaire VPB16C10" width="200"/> - **Pince Bipolaire VPB16C10**
+11. <img src="VPB16D03.jpg" alt="Pince Bipolaire VPB16D03" width="200"/> - **Pince Bipolaire VPB16D03**
+12. <img src="VPB18C05.jpg" alt="Pince Bipolaire VPB18C05" width="200"/> - **Pince Bipolaire VPB18C05**
+13. <img src="VPB18C10.JPG" alt="Pince Bipolaire VPB18C10" width="200"/> - **Pince Bipolaire VPB18C10**
+14. <img src="VPB18D03.jpg" alt="Pince Bipolaire VPB18D03" width="200"/> - **Pince Bipolaire VPB18D03**
+15. <img src="VPB18D10.JPG" alt="Pince Bipolaire VPB18D10" width="200"/> - **Pince Bipolaire VPB18D10**
+16. <img src="VPB18D20.JPG" alt="Pince Bipolaire VPB18D20" width="200"/> - **Pince Bipolaire VPB18D20**
+17. <img src="VPB20AR10.jpg" alt="Pince Bipolaire VPB20AR10" width="200"/> - **Pince Bipolaire VPB20AR10**
+18. <img src="VPB20AV10.jpg" alt="Pince Bipolaire VPB20AV10" width="200"/> - **Pince Bipolaire VPB20AV10**
+19. <img src="VPB20B03.JPG" alt="Pince Bipolaire VPB20B03" width="200"/> - **Pince Bipolaire VPB20B03**
+20. <img src="VPB20B20.jpg" alt="Pince Bipolaire VPB20B20" width="200"/> - **Pince Bipolaire VPB20B20**
+21. <img src="VPB20C10.jpg" alt="Pince Bipolaire VPB20C10" width="200"/> - **Pince Bipolaire VPB20C10**
+22. <img src="VPB20C20.JPG" alt="Pince Bipolaire VPB20C20" width="200"/> - **Pince Bipolaire VPB20C20**
+23. <img src="VPB20D03.JPG" alt="Pince Bipolaire VPB20D03" width="200"/> - **Pince Bipolaire VPB20D03**
+24. <img src="VPB20D10_bis.jpg" alt="Pince Bipolaire VPB20D10 bis" width="200"/> - **Pince Bipolaire VPB20D10 bis**
+25. <img src="VPB20D10.jpg" alt="Pince Bipolaire VPB20D10" width="200"/> - **Pince Bipolaire VPB20D10**
+26. <img src="VPB20D20.JPG" alt="Pince Bipolaire VPB20D20" width="200"/> - **Pince Bipolaire VPB20D20**
+27. <img src="VPB22B03.JPG" alt="Pince Bipolaire VPB22B03" width="200"/> - **Pince Bipolaire VPB22B03**
+28. <img src="VPB22B10.jpg" alt="Pince Bipolaire VPB22B10" width="200"/> - **Pince Bipolaire VPB22B10**
+29. <img src="VPB22C10.jpg" alt="Pince Bipolaire VPB22C10" width="200"/> - **Pince Bipolaire VPB22C10**
+30. <img src="VPB22C20.JPG" alt="Pince Bipolaire VPB22C20" width="200"/> - **Pince Bipolaire VPB22C20**
+31. <img src="VPB22D10.jpg" alt="Pince Bipolaire VPB22D10" width="200"/> - **Pince Bipolaire VPB22D10**
+32. <img src="VPB22D20.JPG" alt="Pince Bipolaire VPB22D20" width="200"/> - **Pince Bipolaire VPB22D20**
+33. <img src="VPB25B05-bis.JPG" alt="Pince Bipolaire VPB25B05-bis" width="200"/> - **Pince Bipolaire VPB25B05-bis**
+34. <img src="VPB25B05.jpg" alt="Pince Bipolaire VPB25B05" width="200"/> - **Pince Bipolaire VPB25B05**
+35. <img src="VPB25D10.JPG" alt="Pince Bipolaire VPB25D10" width="200"/> - **Pince Bipolaire VPB25D10**
 
 ## Plaques
-   - Nos plaques offrent une interface sûre et fiable pour les procédures électrochirurgicales, assurant une dispersion efficace du courant électrique.
+   *- Nos plaques offrent une interface sûre et fiable pour les procédures électrochirurgicales, assurant une dispersion efficace du courant électrique.*
      
-1. ![VPLEN2](VPLEN2.jpg) - **Plaque VPLEN2**
-2. ![VPLAD2](VPLAD2.jpg) - **Plaque VPLAD2**
+1. <img src="VPLEN2.jpg" alt="Plaque VPLEN2" width="200"/> - **Plaque VPLEN2**
+2. <img src="VPLAD2.jpg" alt="Plaque VPLAD2" width="200"/> - **Plaque VPLAD2**
 
 ## Thermoclamp
- - Les thermoclamps offrent un contrôle thermique précis lors des interventions chirurgicales, assurant la sécurité du patient et du personnel médical.
+ *- Les thermoclamps offrent un contrôle thermique précis lors des interventions chirurgicales, assurant la sécurité du patient et du personnel médical.*
 
-1. ![V11CLPBS2 Thermoclamp bis](V11CLPBS2_Thermoclamp_bis.jpg) - **Thermoclamp V11CLPBS2**
-2. ![V11CLPBS2 Thermoclamp det](V11CLPBS2_Thermoclamp_det.jpg) - **Thermoclamp V11CLPBS2 (détail)**
-3. ![V11CLPBS2](V11CLPBS2.jpg) - **Thermoclamp V11CLPBS2**
-4. ![V11CLPBS4](V11CLPBS4.jpg) - **Thermoclamp V11CLPBS4**
-5. ![V11CLPBS6](V11CLPBS6.JPG) - **Thermoclamp V11CLPBS6**
-6. ![V11CLPBS62](V11CLPBS62.JPG) - **Thermoclamp V11CLPBS62**
-  
+1. <img src="V11CLPBS2_Thermoclamp_bis.jpg" alt="Thermoclamp V11CLPBS2" width="200"/> - **Thermoclamp V11CLPBS2**
+2. <img src="V11CLPBS2_Thermoclamp_det.jpg" alt="Thermoclamp V11CLPBS2 (détail)" width="200"/> - **Thermoclamp V11CLPBS2 (détail)**
+3. <img src="V11CLPBS2.jpg" alt="Thermoclamp V11CLPBS2" width="200"/> - **Thermoclamp V11CLPBS2**
+4. <img src="V11CLPBS4.jpg" alt="Thermoclamp V11CLPBS4" width="200"/> - **Thermoclamp V11CLPBS4**
+5. <img src="V11CLPBS6.JPG" alt="Thermoclamp V11CLPBS6" width="200"/> - **Thermoclamp V11CLPBS6**
+6. <img src="V11CLPBS62.JPG" alt="Thermoclamp V11CLPBS62" width="200"/> - **Thermoclamp V11CLPBS62**
+
 ## Thermocut
-- Le Thermocut est conçu pour fournir des résultats fiables et une coagulation efficace, assurant la sécurité du patient et du personnel médical.
+*- Le Thermocut est conçu pour fournir des résultats fiables et une coagulation efficace, assurant la sécurité du patient et du personnel médical.*
 
-1. ![V12PBN211](V12PBN211.JPG) - **Thermocut V12PBN211**
-2. ![V12PBN21P](V12PBN21P.jpg) - **Thermocut V12PBN21P**
-3. ![V12PBN21R](V12PBN21R.jpg) - **Thermocut V12PBN21R**
-4. ![V12PBN221](V12PBN221.JPG) - **Thermocut V12PBN221**
-5. ![V12PBN22P](V12PBN22P.jpg) - **Thermocut V12PBN22P**
-6. ![V12PBN22R](V12PBN22R.jpg) - **Thermocut V12PBN22R**
-7. ![V12PBN2S](V12PBN2S.jpg) - **Thermocut V12PBN2S**
-8. ![V12PBN52](V12PBN52.jpg) - **Thermocut V12PBN52**
-9. ![V12PBN521R](V12PBN521R.jpg) - **Thermocut V12PBN521R**
-10. ![V12PBN522R](V12PBN522R.JPG) - **Thermocut V12PBN522R**
-11. ![V12PBN523](V12PBN523.jpg) - **Thermocut V12PBN523**
-12. ![V12PBN5230](V12PBN5230.jpg) - **Thermocut V12PBN5230**
-13. ![V12PBN524](V12PBN524.jpg) - **Thermocut V12PBN524**
-14. ![V12PBN5240](V12PBN5240.jpg) - **Thermocut V12PBN5240**
-15. ![V12PBS210](V12PBS210.JPG) - **Thermocut V12PBS210**
-16. ![V12PBS220](V12PBS220.JPG) - **Thermocut V12PBS220**
-17. ![V12PBS25DM](V12PBS25DM.jpg) - **Thermocut V12PBS25DM**
-18. ![V12PBS25S](V12PBS25S.jpg) - **Thermocut V12PBS25S**
-19. ![V12PBS26D](V12PBS26D.jpg) - **Thermocut V12PBS26D**
-20. ![V12PBS26DM](V12PBS26DM.jpg) - **Thermocut V12PBS26DM**
-21. ![V12PBS26M](V12PBS26M.jpg) - **Thermocut V12PBS26M**
-22. ![V12PBS26S](V12PBS26S.jpg) - **Thermocut V12PBS26S**
-23. ![VSU9000](VSU9000.jpg) - **Lame VSU9000**
+1. <img src="V12PBN211.JPG" alt="Thermocut V12PBN211" width="200"/> - **Thermocut V12PBN211**
+2. <img src="V12PBN21P.jpg" alt="Thermocut V12PBN21P" width="200"/> - **Thermocut V12PBN21P**
+3. <img src="V12PBN21R.jpg" alt="Thermocut V12PBN21R" width="200"/> - **Thermocut V12PBN21R**
+4. <img src="V12PBN221.JPG" alt="Thermocut V12PBN221" width="200"/> - **Thermocut V12PBN221**
+5. <img src="V12PBN22P.jpg" alt="Thermocut V12PBN22P" width="200"/> - **Thermocut V12PBN22P**
+6. <img src="V12PBN22R.jpg" alt="Thermocut V12PBN22R" width="200"/> - **Thermocut V12PBN22R**
+7. <img src="V12PBN2S.jpg" alt="Thermocut V12PBN2S" width="200"/> - **Thermocut V12PBN2S**
+8. <img src="V12PBN52.jpg" alt="Thermocut V12PBN52" width="200"/> - **Thermocut V12PBN52**
+9. <img src="V12PBN521R.jpg" alt="Thermocut V12PBN521R" width="200"/> - **Thermocut V12PBN521R**
+10. <img src="V12PBN522R.JPG" alt="Thermocut V12PBN522R" width="200"/> - **Thermocut V12PBN522R**
+11. <img src="V12PBN523.jpg" alt="Thermocut V12PBN523" width="200"/> - **Thermocut V12PBN523**
+12. <img src="V12PBN5230.jpg" alt="Thermocut V12PBN5230" width="200"/> - **Thermocut V12PBN5230**
+13. <img src="V12PBN524.jpg" alt="Thermocut V12PBN524" width="200"/> - **Thermocut V12PBN524**
+14. <img src="V12PBN5240.jpg" alt="Thermocut V12PBN5240" width="200"/> - **Thermocut V12PBN5240**
+15. <img src="V12PBS210.JPG" alt="Thermocut V12PBS210" width="200"/> - **Thermocut V12PBS210**
+16. <img src="V12PBS220.JPG" alt="Thermocut V12PBS220" width="200"/> - **Thermocut V12PBS220**
+17. <img src="V12PBS25DM.jpg" alt="Thermocut V12PBS25DM" width="200"/> - **Thermocut V12PBS25DM**
+18. <img src="V12PBS25S.jpg" alt="Thermocut V12PBS25S" width="200"/> - **Thermocut V12PBS25S**
+19. <img src="V12PBS26D.jpg" alt="Thermocut V12PBS26D" width="200"/> - **Thermocut V12PBS26D**
+20. <img src="V12PBS26DM.jpg" alt="Thermocut V12PBS26DM" width="200"/> - **Thermocut V12PBS26DM**
+21. <img src="V12PBS26M.jpg" alt="Thermocut V12PBS26M" width="200"/> - **Thermocut V12PBS26M**
+22. <img src="V12PBS26S.jpg" alt="Thermocut V12PBS26S" width="200"/> - **Thermocut V12PBS26S**
+23. <img src="VSU9000.jpg" alt="Lame VSU9000" width="200"/> - **Lame VSU9000**
 
 24. ## Liens vers les fiches techniques
 Consultez la documentation complète sur l'utilisation de ces éléments auprès des fiches techniques en fichier PDF [ici] 
@@ -273,9 +290,6 @@ Consultez la documentation complète sur l'utilisation de ces éléments auprès
 - [FT-Poignées SIDE LOAD_FR-210826.pdf](PDFs/FT-Poignees_SIDE_LOAD_FR-210826.pdf)
 - [FT-Adaptateurs-210521_FR.pdf](PDFs/FT-Adaptateurs-210521_FR.pdf)
 - [FT-Câbles-210521_FR.pdf](PDFs/FT-Cables-210521_FR.pdf).
-
-## Optimisation des images
-Les images incluses dans ce référentiel sont optimisées pour une taille de fichier réduite, garantissant des temps de chargement efficaces.
 
 ## Crédits
 Nous remercions les contributeurs suivants pour leur précieuse contribution à ce projet :
