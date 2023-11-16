@@ -18,50 +18,49 @@ Bienvenue dans le référentiel d'images Lamidey-Noury, mettant en vedette une v
 ## Adaptateurs
 - Adaptateurs polyvalent pour différentes applications.
 
-1. ![V11KA88](V11KA88.jpg) - **Adaptateur V11KA88**
-2. ![V11KA89](V11KA89.jpg) - **Adaptateur V11KA89**
-3. ![V11KA91](V11KA91.jpg) - **Adaptateur V11KA91**
-4. ![V11KA92](V11KA92.jpg) - **Adaptateur V11KA92**
-5. ![V11KA94](V11KA94.jpg) - **Adaptateur V11KA94**
-6. ![V11KA98](V11KA98.JPG) - **Adaptateur V11KA98**
+1. <img src="V11KA88.jpg" alt="Adaptateur V11KA88" width="200"/> - **Adaptateur V11KA88**
+2. <img src="V11KA89.jpg" alt="Adaptateur V11KA89" width="200"/> - **Adaptateur V11KA89**
+3. <img src="V11KA91.jpg" alt="Adaptateur V11KA91" width="200"/> - **Adaptateur V11KA91**
+4. <img src="V11KA92.jpg" alt="Adaptateur V11KA92" width="200"/> - **Adaptateur V11KA92**
+5. <img src="V11KA94.jpg" alt="Adaptateur V11KA94" width="200"/> - **Adaptateur V11KA94**
+6. <img src="V11KA98.JPG" alt="Adaptateur V11KA98" width="200"/> - **Adaptateur V11KA98**
 
 ## Argons
 - Conçu pour une administration efficace d'argon médical.
 
-1. ![V11A201](V11A201.jpg) - **Argon V11A201**
-3. ![V11A301](V11A301.JPG) - **Argon V11A301**
-5. ![V11A302](V11A302.JPG) - **Argon V11A302**
-7. ![V11A303](V11A303.jpg) - **Argon V11A303**
-8. ![V11A312](V11A312.jpg) - **Argon V11A312**
-10. ![V11A313](V11A313.JPG) - **Argon V11A313**
-11. ![V11A400](V11A400.jpg) - **Argon V11A400**
-12. ![V11A401](V11A401.jpg) - **Argon V11A401**
-13. ![V11A402](V11A402.jpg) - **Argon V11A402**
-14. ![V11A403](V11A403.jpg) - **Argon V11A403**
+1. <img src="V11A201.jpg" alt="Argon V11A201" width="200"/> - **Argon V11A201**
+2. <img src="V11A301.JPG" alt="Argon V11A301" width="200"/> - **Argon V11A301**
+3. <img src="V11A302.JPG" alt="Argon V11A302" width="200"/> - **Argon V11A302**
+4. <img src="V11A303.jpg" alt="Argon V11A303" width="200"/> - **Argon V11A303**
+5. <img src="V11A312.jpg" alt="Argon V11A312" width="200"/> - **Argon V11A312**
+6. <img src="V11A313.JPG" alt="Argon V11A313" width="200"/> - **Argon V11A313**
+7. <img src="V11A400.jpg" alt="Argon V11A400" width="200"/> - **Argon V11A400**
+8. <img src="V11A401.jpg" alt="Argon V11A401" width="200"/> - **Argon V11A401**
+9. <img src="V11A402.jpg" alt="Argon V11A402" width="200"/> - **Argon V11A402**
+10. <img src="V11A403.jpg" alt="Argon V11A403" width="200"/> - **Argon V11A403**
 
 ## Câbles
 - Câbles dotés de connecteurs de qualité pour une transmission optimale.
-  
-1. ![V11F242-242TC](V11F242-242TC.jpg) - **Câble V11F242-242TC**
-2. ![V11F242](V11F242.jpg) - **Câble V11F242**
-3. ![V11F242C](V11F242C.jpg) - **Câble V11F242C**
-4. ![V11F242E](V11F242E.jpg) - **Câble V11F242E**
-5. ![V11F242TC](V11F242TC.jpg) - **Câble V11F242TC**
-6. ![V11F342](V11F342.jpg) - **Câble V11F342**
-7. ![V11F343](V11F343.jpg) - **Câble V11F343**
-8. ![V11F345](V11F345.jpg) - **Câble V11F345**
-9. ![V11F3AX bis](V11F3AX_bis.JPG) - **Câble V11F3AX bis**
-10. ![V11F3AX](V11F3AX.JPG) - **Câble V11F3AX**
-11. ![V11FM40](V11FM40.jpg) - **Câble V11FM40**
-12. ![V11FM40P](V11FM40P.jpg) - **Câble V11FM40P**
-13. ![V11FM43](V11FM43.jpg) - **Câble V11FM43**
-14. ![V11FM44](V11FM44.JPG) - **Câble V11FM44**
-15. ![V12PBS25DM](V12PBS25DM.jpg) - **Câble V12PBS25DM**
-16. ![V12PBS25S](V12PBS25S.jpg) - **Câble V12PBS25S**
-17. ![V12PBS26D](V12PBS26D.jpg) - **Câble V12PBS26D**
-18. ![V12PBS26DM](V12PBS26DM.jpg) - **Câble V12PBS26DM**
-19. ![V12PBS26M](V12PBS26M.jpg) - **Câble V12PBS26M**
-20. ![V12PBS26S](V12PBS26S.jpg) - **Câble V12PBS26S**
+
+1. <img src="V11F242-242TC.jpg" alt="Câble V11F242-242TC" width="200"/> - **Câble V11F242-242TC**
+2. <img src="V11F242.jpg" alt="Câble V11F242" width="200"/> - **Câble V11F242**
+3. <img src="V11F242C.jpg" alt="Câble V11F242C" width="200"/> - **Câble V11F242C**
+4. <img src="V11F242E.jpg" alt="Câble V11F242E" width="200"/> - **Câble V11F242E**
+5. <img src="V11F242TC.jpg" alt="Câble V11F242TC" width="200"/> - **Câble V11F242TC**
+6. <img src="V11F342.jpg" alt="Câble V11F342" width="200"/> - **Câble V11F342**
+7. <img src="V11F343.jpg" alt="Câble V11F343" width="200"/> - **Câble V11F343**
+8. <img src="V11F345.jpg" alt="Câble V11F345" width="200"/> - **Câble V11F345**
+10. <img src="V11F3AX.JPG" alt="Câble V11F3AX" width="200"/> - **Câble V11F3AX**
+11. <img src="V11FM40.jpg" alt="Câble V11FM40" width="200"/> - **Câble V11FM40**
+12. <img src="V11FM40P.jpg" alt="Câble V11FM40P" width="200"/> - **Câble V11FM40P**
+13. <img src="V11FM43.jpg" alt="Câble V11FM43" width="200"/> - **Câble V11FM43**
+14. <img src="V11FM44.JPG" alt="Câble V11FM44" width="200"/> - **Câble V11FM44**
+15. <img src="V12PBS25DM.jpg" alt="Câble V12PBS25DM" width="200"/> - **Câble V12PBS25DM**
+16. <img src="V12PBS25S.jpg" alt="Câble V12PBS25S" width="200"/> - **Câble V12PBS25S**
+17. <img src="V12PBS26D.jpg" alt="Câble V12PBS26D" width="200"/> - **Câble V12PBS26D**
+18. <img src="V12PBS26DM.jpg" alt="Câble V12PBS26DM" width="200"/> - **Câble V12PBS26DM**
+19. <img src="V12PBS26M.jpg" alt="Câble V12PBS26M" width="200"/> - **Câble V12PBS26M**
+20. <img src="V12PBS26S.jpg" alt="Câble V12PBS26S" width="200"/> - **Câble V12PBS26S**
 
 ## Electrodes de résection
 - Performance fiable pour une résection précise.
@@ -75,32 +74,39 @@ Bienvenue dans le référentiel d'images Lamidey-Noury, mettant en vedette une v
 7. ![VRUB1](VRUB1.jpg) - **Électrode VRUB1**
 8. ![VRUN1](VRUN1.jpg) - **Électrode VRUN1**
 9. ![VRUV1](VRUV1.jpg) - **Électrode VRUV1**
-10. ![V11A52C](V11A52C.jpg) - **Électrode V11A52C**
-11. ![V11A52L](V11A52L.jpg) - **Électrode V11A52L**
-12. ![V11A52M](V11A52M.jpg) - **Électrode V11A52M**
-13. ![V11A82C](V11A82C.jpg) - **Électrode V11A82C**
-14. ![V11A82L](V11A82L.jpg) - **Électrode V11A82L**
-15. ![V11A82M](V11A82M.jpg) - **Électrode V11A82M**
-16. ![V11B32L](V11B32L.jpg) - **Électrode V11B32L**
-17. ![V11B32M](V11B32M.jpg) - **Électrode V11B32M**
-18. ![V11B3CI](V11B3CI.jpg) - **Électrode V11B3CI**
-19. ![V11B42L](V11B42L.jpg) - **Électrode V11B42L**
-20. ![V11B42M](V11B42M.jpg) - **Électrode V11B42M**
-21. ![V11B4CI](V11B4CI.jpg) - **Électrode V11B4CI**
-22. ![V11B52L](V11B52L.jpg) - **Électrode V11B52L**
-23. ![V11B52M](V11B52M.jpg) - **Électrode V11B52M**
-24. ![V11B5CI](V11B5CI.jpg) - **Électrode V11B5CI**
-25. ![V11B82L](V11B82L.jpg) - **Électrode V11B82L**
-26. ![V11B82M](V11B82M.jpg) - **Électrode V11B82M**
-27. ![V11B8CI](V11B8CI.jpg) - **Électrode V11B8CI**
-28. ![V11CC2L](V11CC2L.jpg) - **Électrode V11CC2L**
-29. ![V11CC2M](V11CC2M.jpg) - **Électrode V11CC2M**
-30. ![V11CCCI](V11CCCI.jpg) - **Électrode V11CCCI**
-31. ![V11CCDI](V11CCDI.jpg) - **Électrode V11CCDI**
-32. ![V11CCDTC](V11CCDTC.jpg) - **Électrode V11CCDTC**
-33. ![V11CCDTC](V11CCDTC.png) - **Électrode V11CCDTC**
-34. ![V11CCDX](V11CCDX.png) - **Électrode V11CCDX**
-35. ![V11CD2L](V11CD2L.jpg) - **Électrode V11CD2L**
+
+## Electrodes monopolaire 
+  - Anses
+11. ![V11A52C](V11A52C.jpg) - **Électrode V11A52C**
+12. ![V11A52L](V11A52L.jpg) - **Électrode V11A52L**
+13. ![V11A52M](V11A52M.jpg) - **Électrode V11A52M**
+14. ![V11A82C](V11A82C.jpg) - **Électrode V11A82C**
+15. ![V11A82L](V11A82L.jpg) - **Électrode V11A82L**
+16. ![V11A82M](V11A82M.jpg) - **Électrode V11A82M**
+  - Boules
+17. ![V11B32L](V11B32L.jpg) - **Électrode V11B32L**
+18. ![V11B32M](V11B32M.jpg) - **Électrode V11B32M**
+19. ![V11B3CI](V11B3CI.jpg) - **Électrode V11B3CI**
+20. ![V11B42L](V11B42L.jpg) - **Électrode V11B42L**
+21. ![V11B42M](V11B42M.jpg) - **Électrode V11B42M**
+22. ![V11B4CI](V11B4CI.jpg) - **Électrode V11B4CI**
+23. ![V11B52L](V11B52L.jpg) - **Électrode V11B52L**
+24. ![V11B52M](V11B52M.jpg) - **Électrode V11B52M**
+25. ![V11B5CI](V11B5CI.jpg) - **Électrode V11B5CI**
+26. ![V11B82L](V11B82L.jpg) - **Électrode V11B82L**
+27. ![V11B82M](V11B82M.jpg) - **Électrode V11B82M**
+28. ![V11B8CI](V11B8CI.jpg) - **Électrode V11B8CI**
+  - Couteaux
+29. ![V11CC2L](V11CC2L.jpg) - **Électrode V11CC2L**
+30. ![V11CC2M](V11CC2M.jpg) - **Électrode V11CC2M**
+31. ![V11CCCI](V11CCCI.jpg) - **Électrode V11CCCI**
+32. ![V11CCDI](V11CCDI.jpg) - **Électrode V11CCDI**
+33. ![V11CCDTC](V11CCDTC.jpg) - **Électrode V11CCDTC**
+34. ![V11CCDTC](V11CCDTC.png) - **Électrode V11CCDTC**
+35. ![V11CCDX](V11CCDX.png) - **Électrode V11CCDX**
+36. ![V11CD2L](V11CD2L.jpg) - **Électrode V11CD2L**
+  - Conisation
+
 
 ## Guéridon
   - Le guéridon V10GALP est un équipement médical essentiel, offrant une surface stable et pratique pour le positionnement d'instruments et de fournitures médicales pendant les procédures.
