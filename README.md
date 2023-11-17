@@ -779,64 +779,65 @@ Les pédales V11SM1DN et V11SM2FN offrent un contrôle précis et réactif, faci
   <img src="V12PBS26S.jpg" alt="Thermocut V12PBS26S" width="200"/>
 
 
-## Table des Matières
+## Fiches technique
 
 <details>
   <summary>Cliquez pour afficher</summary>
 
 ### Adaptateurs
-- [![Adaptateurs](PDFs/FT-Adaptateurs-210521_FR.pdf)](PDFs/FT-Adaptateurs-210521_FR.pdf)
+- [Adaptateurs](PDFs/FT-Adaptateurs-210521_FR.pdf)
 
 ### Argons
-- [![Argons](PDFs/FT-module_Argon-0822-FR.pdf)](PDFs/FT-module_Argon-0822-FR.pdf)
+- [Argons](PDFs/FT-module_Argon-0822-FR.pdf)
 
 ### Câbles
-- [![Câbles](PDFs/FT-Cables-210521_FR.pdf)](PDFs/FT-Cables-210521_FR.pdf)
+- [Câbles](PDFs/FT-Cables-210521_FR.pdf)
 
 ### Electrodes de Résection
-- [![Electrodes de Résection](PDFs/FT-Electrode_gyneco_conisation-221006_FR.pdf)](PDFs/FT-Electrode_gyneco_conisation-221006_FR.pdf)
-- [![Electrodes de Résection](PDFs/FT-Electrode_aiguille_FR-200827.pdf)](PDFs/FT-Electrode_aiguille_FR-200827.pdf)
-- [![Electrodes de Résection](PDFs/FT-Electrode_anses_FR-200827.pdf)](PDFs/FT-Electrode_anses_FR-200827.pdf)
-- [![Electrodes de Résection](PDFs/FT-Electrode_boules_FR-201007.pdf)](PDFs/FT-Electrode_boules_FR-201007.pdf)
-- [![Electrodes de Résection](PDFs/FT-Electrode_couteaux_FR-201007.pdf)](PDFs/FT-Electrode_couteaux_FR-201007.pdf)
+- [Electrodes de Résection](PDFs/FT-Electrode_gyneco_conisation-221006_FR.pdf)
+- [Electrodes de Résection](PDFs/FT-Electrode_aiguille_FR-200827.pdf)
+- [Electrodes de Résection](PDFs/FT-Electrode_anses_FR-200827.pdf)
+- [Electrodes de Résection](PDFs/FT-Electrode_boules_FR-201007.pdf)
+- [Electrodes de Résection](PDFs/FT-Electrode_couteaux_FR-201007.pdf)
 
 ### Anses
-- [![Anses](PDFs/FT-anse_FRONT_LOAD_FR-220623.pdf)](PDFs/FT-anse_FRONT_LOAD_FR-220623.pdf)
-- [![Anses](PDFs/FT-anse_Gynecare_FR-210812.pdf)](PDFs/FT-anse_Gynecare_FR-210812.pdf)
-- [![Anses](PDFs/FT-anse_Reutilisable_FR-210812.pdf)](PDFs/FT-anse_Reutilisable_FR-210812.pdf)
-- [![Anses](PDFs/FT-anse_SIDE_LOAD_FR-220210.pdf)](PDFs/FT-anse_SIDE_LOAD_FR-220210.pdf)
-- [![Anses](PDFs/FT-anse_Universelle_FR-220210.pdf)](PDFs/FT-anse_Universelle_FR-220210.pdf)
+- [Anses](PDFs/FT-anse_FRONT_LOAD_FR-220623.pdf)
+- [Anses](PDFs/FT-anse_Gynecare_FR-210812.pdf)
+- [Anses](PDFs/FT-anse_Reutilisable_FR-210812.pdf)
+- [Anses](PDFs/FT-anse_SIDE_LOAD_FR-220210.pdf)
+- [Anses](PDFs/FT-anse_Universelle_FR-220210.pdf)
 
 ### Manches
-- [![Manches](PDFs/FT-manche_Derlec_FR-200720.pdf)](PDFs/FT-manche_Derlec_FR-200720.pdf)
-- [![Manches](PDFs/FT-manche_Tactilec_FR-200720.pdf)](PDFs/FT-manche_Tactilec_FR-200720.pdf)
+- [Manches](PDFs/FT-manche_Derlec_FR-200720.pdf)
+- [Manches](PDFs/FT-manche_Tactilec_FR-200720.pdf)
 
 ### Pédales
-- [![Pédales](PDFs/FT-Pédales_04_2019.pdf)](PDFs/FT-Pédales_04_2019.pdf)
+- [Pédales](PDFs/FT-Pédales_04_2019.pdf)
 
 ### Pinces Monopolaires
-- [![Pinces Monopolaires](PDFs/Pinces_monopolaires_FT_0105_FR.pdf)](PDFs/Pinces_monopolaires_FT_0105_FR.pdf)
+- [Pinces Monopolaires](PDFs/Pinces_monopolaires_FT_0105_FR.pdf)
 
 ### Pinces Bipolaires
-- [![Pinces Bipolaires](PDFs/FT-Pince_bipolaire_coudee-210129-FR.pdf)](PDFs/FT-Pince_bipolaire_coudee-210129-FR.pdf)
-- [![Pinces Bipolaires](PDFs/FT-Pince_bipolaire_droite-210129-FR.pdf)](PDFs/FT-Pince_bipolaire_droite-210129-FR.pdf)
-- [![Pinces Bipolaires](PDFs/FT-Pinces_bipol_baionnettes-200828-FR.pdf)](PDFs/FT-Pinces_bipol_baionnettes-200828-FR.pdf)
+- [Pinces Bipolaires](PDFs/FT-Pince_bipolaire_coudee-210129-FR.pdf)
+- [Pinces Bipolaires](PDFs/FT-Pince_bipolaire_droite-210129-FR.pdf)
+- [Pinces Bipolaires](PDFs/FT-Pinces_bipol_baionnettes-200828-FR.pdf)
 
 ### Plaques
-- [![Plaques](PDFs/FT_Lames_Thermocut_FR.pdf)](PDFs/FT_Lames_Thermocut_FR.pdf)
-- [![Plaques](PDFs/Thermocut5_FT_0722-FR.pdf)](PDFs/Thermocut5_FT_0722-FR.pdf)
-- [![Plaques](PDFs/Thermocut10_FT-0722-FR.pdf)](PDFs/Thermocut10_FT-0722-FR.pdf)
+- [Plaques](PDFs/FT_Lames_Thermocut_FR.pdf)
+- [Plaques](PDFs/Thermocut5_FT_0722-FR.pdf)
+- [Plaques](PDFs/Thermocut10_FT-0722-FR.pdf)
 
 ### Thermoclamp
-- [![Thermoclamp](PDFs/Pince_thermoclamp_et_Thermocision-FT_211116-FR.pdf)](PDFs/Pince_thermoclamp_et_Thermocision-FT_211116-FR.pdf)
+- [Thermoclamp](PDFs/Pince_thermoclamp_et_Thermocision-FT_211116-FR.pdf)
 
 ### Thermocut
-- [![Thermocut](PDFs/FT-Set_V11ELDI_FR-210202.pdf)](PDFs/FT-Set_V11ELDI_FR-210202.pdf)
-- [![Thermocut](PDFs/FT-Lames_Thermocut_FR.pdf)](PDFs/FT-Lames_Thermocut_FR.pdf)
-- [![Thermocut](PDFs/Thermocut5_FT_0722-FR.pdf)](PDFs/Thermocut5_FT_0722-FR.pdf)
-- [![Thermocut](PDFs/Thermocut10_FT-0722-FR.pdf)](PDFs/Thermocut10_FT-0722-FR.pdf)
+- [Thermocut](PDFs/FT-Set_V11ELDI_FR-210202.pdf)
+- [Thermocut](PDFs/FT-Lames_Thermocut_FR.pdf)
+- [Thermocut](PDFs/Thermocut5_FT_0722-FR.pdf)
+- [Thermocut](PDFs/Thermocut10_FT-0722-FR.pdf)
 
 </details>
+
 
 
 ## Crédits
