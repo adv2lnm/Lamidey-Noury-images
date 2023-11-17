@@ -778,6 +778,8 @@ Les pédales V11SM1DN et V11SM2FN offrent un contrôle précis et réactif, faci
   <img src="V12PBS26S.jpg" alt="Thermocut V12PBS26S" width="200"/>
 
 
+
+
 ## Fiches technique
 
 <details>
