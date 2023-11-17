@@ -143,9 +143,7 @@ Bienvenue dans le référentiel d'images Lamidey Noury, mettant en vedette une v
 6. <img src="VSUT1.JPG" alt="Manche VSUT1" width="200"/> - **Manche VSUT1**
 7. <img src="VSUT2.jpg" alt="Manche VSUT2" width="200"/> - **Manche VSUT2**
 8. <img src="V11MCT14.jpg" alt="Manche V11MCT14" width="200"/> - **Manche V11MCT14**
-9. <img src="V11MCT9N_bis.jpg" alt="Manche V11MCT9N bis" width="200"/> - **Manche V11MCT9N bis**
-10. <img src="V11MCT9N_ter.jpg" alt="Manche V11MCT9N ter" width="200"/> - **Manche V11MCT9N ter**
-11. <img src="V11MCT9N.jpg" alt="Manche V11MCT9N" width="200"/> - **Manche V11MCT9N**
+9. <img src="V11MCT9N.jpg" alt="Manche V11MCT9N" width="200"/> - **Manche V11MCT9N**
   
 ## Pédales
  *- Les pédales V11SM1DN et V11SM2FN offrent un contrôle précis et réactif, facilitant l'activation d'instruments médicaux compatibles.*
@@ -159,7 +157,6 @@ Bienvenue dans le référentiel d'images Lamidey Noury, mettant en vedette une v
 1. <img src="VPM11D03.jpg" alt="Pince Monopolaire VPM11D03" width="200"/> - **Pince Monopolaire VPM11D03**
 2. <img src="VPM13C10.jpg" alt="Pince Monopolaire VPM13C10" width="200"/> - **Pince Monopolaire VPM13C10**
 3. <img src="VPM13D08G.JPG" alt="Pince Monopolaire VPM13D08G" width="200"/> - **Pince Monopolaire VPM13D08G**
-4. <img src="VPM13D10_2.JPG" alt="Pince Monopolaire VPM13D10" width="200"/> - **Pince Monopolaire VPM13D10**
 5. <img src="VPM13D10.jpg" alt="Pince Monopolaire VPM13D10" width="200"/> - **Pince Monopolaire VPM13D10**
 6. <img src="VPM13D12G.JPG" alt="Pince Monopolaire VPM13D12G" width="200"/> - **Pince Monopolaire VPM13D12G**
 7. <img src="VPM16B10.jpg" alt="Pince Monopolaire VPM16B10" width="200"/> - **Pince Monopolaire VPM16B10**
@@ -190,7 +187,6 @@ Bienvenue dans le référentiel d'images Lamidey Noury, mettant en vedette une v
 6. <img src="VPB13D05.jpg" alt="Pince Bipolaire VPB13D05" width="200"/> - **Pince Bipolaire VPB13D05**
 7. <img src="VPB16B05.JPG" alt="Pince Bipolaire VPB16B05" width="200"/> - **Pince Bipolaire VPB16B05**
 8. <img src="VPB16B10.JPG" alt="Pince Bipolaire VPB16B10" width="200"/> - **Pince Bipolaire VPB16B10**
-9. <img src="VPB16C10_bis.jpg" alt="Pince Bipolaire VPB16C10" width="200"/> - **Pince Bipolaire VPB16C10**
 10. <img src="VPB16C10.jpg" alt="Pince Bipolaire VPB16C10" width="200"/> - **Pince Bipolaire VPB16C10**
 11. <img src="VPB16D03.jpg" alt="Pince Bipolaire VPB16D03" width="200"/> - **Pince Bipolaire VPB16D03**
 12. <img src="VPB18C05.jpg" alt="Pince Bipolaire VPB18C05" width="200"/> - **Pince Bipolaire VPB18C05**
@@ -205,7 +201,6 @@ Bienvenue dans le référentiel d'images Lamidey Noury, mettant en vedette une v
 21. <img src="VPB20C10.jpg" alt="Pince Bipolaire VPB20C10" width="200"/> - **Pince Bipolaire VPB20C10**
 22. <img src="VPB20C20.JPG" alt="Pince Bipolaire VPB20C20" width="200"/> - **Pince Bipolaire VPB20C20**
 23. <img src="VPB20D03.JPG" alt="Pince Bipolaire VPB20D03" width="200"/> - **Pince Bipolaire VPB20D03**
-24. <img src="VPB20D10_bis.jpg" alt="Pince Bipolaire VPB20D10 bis" width="200"/> - **Pince Bipolaire VPB20D10 bis**
 25. <img src="VPB20D10.jpg" alt="Pince Bipolaire VPB20D10" width="200"/> - **Pince Bipolaire VPB20D10**
 26. <img src="VPB20D20.JPG" alt="Pince Bipolaire VPB20D20" width="200"/> - **Pince Bipolaire VPB20D20**
 27. <img src="VPB22B03.JPG" alt="Pince Bipolaire VPB22B03" width="200"/> - **Pince Bipolaire VPB22B03**
@@ -227,8 +222,6 @@ Bienvenue dans le référentiel d'images Lamidey Noury, mettant en vedette une v
 ## Thermoclamp
  *- Les thermoclamps offrent un contrôle thermique précis lors des interventions chirurgicales, assurant la sécurité du patient et du personnel médical.*
 
-1. <img src="V11CLPBS2_Thermoclamp_bis.jpg" alt="Thermoclamp V11CLPBS2" width="200"/> - **Thermoclamp V11CLPBS2**
-2. <img src="V11CLPBS2_Thermoclamp_det.jpg" alt="Thermoclamp V11CLPBS2 (détail)" width="200"/> - **Thermoclamp V11CLPBS2 (détail)**
 3. <img src="V11CLPBS2.jpg" alt="Thermoclamp V11CLPBS2" width="200"/> - **Thermoclamp V11CLPBS2**
 4. <img src="V11CLPBS4.jpg" alt="Thermoclamp V11CLPBS4" width="200"/> - **Thermoclamp V11CLPBS4**
 5. <img src="V11CLPBS6.JPG" alt="Thermoclamp V11CLPBS6" width="200"/> - **Thermoclamp V11CLPBS6**
@@ -259,7 +252,6 @@ Bienvenue dans le référentiel d'images Lamidey Noury, mettant en vedette une v
 20. <img src="V12PBS26DM.jpg" alt="Thermocut V12PBS26DM" width="200"/> - **Thermocut V12PBS26DM**
 21. <img src="V12PBS26M.jpg" alt="Thermocut V12PBS26M" width="200"/> - **Thermocut V12PBS26M**
 22. <img src="V12PBS26S.jpg" alt="Thermocut V12PBS26S" width="200"/> - **Thermocut V12PBS26S**
-23. <img src="VSU9000.jpg" alt="Lame VSU9000" width="200"/> - **Lame VSU9000**
 
 24. ## Liens vers les fiches techniques
 Consultez la documentation complète sur l'utilisation de ces éléments auprès des fiches techniques en fichier PDF [ici] 
