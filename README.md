@@ -1,24 +1,19 @@
 # Lamidey Noury: Images
 Bienvenue dans le référentiel d'images Lamidey Noury, mettant en vedette une variété d'outils médicaux de haute qualité. Explorez les différentes catégories ci-dessous pour découvrir les produits disponibles.
 
-<!-- Table des matières -->
-<div id="table-of-contents">
-  <h2>Table des Matières</h2>
-  <ul>
-    <li><a href="#adaptateurs">Adaptateurs</a></li>
-    <li><a href="#argons">Argons</a></li>
-    <li><a href="#câbles">Câbles</a></li>
-    <li><a href="#electrodes-de-résection">Electrodes de Résection</a></li>
-    <li><a href="#guéridon">Guéridon</a></li>
-    <li><a href="#manches">Manches</a></li>
-    <li><a href="#pédales">Pédales</a></li>
-    <li><a href="#pinces-monopolaires">Pinces Monopolaires</a></li>
-    <li><a href="#pinces-bipolaires">Pinces Bipolaires</a></li>
-    <li><a href="#plaques">Plaques</a></li>
-    <li><a href="#thermoclamp">Thermoclamp</a></li>
-    <li><a href="#thermocut">Thermocut</a></li>
-  </ul>
-</div>
+## Table des Matières
+- [Adaptateurs](#adaptateurs)
+- [Argons](#argons)
+- [Câbles](#câbles)
+- [Electrodes de Résection](#electrodes-de-résection)
+- [Guéridon](#guéridon)
+- [Manches](#manches)
+- [Pédales](#pédales)
+- [Pinces Monopolaires](#pinces-monopolaires)
+- [Pinces Bipolaires](#pinces-bipolaires)
+- [Plaques](#plaques)
+- [Thermoclamp](#thermoclamp)
+- [Thermocut](#thermocut)
 
 ## Adaptateurs
 *- Adaptateurs polyvalent pour différentes applications.*
@@ -218,6 +213,8 @@ Bienvenue dans le référentiel d'images Lamidey Noury, mettant en vedette une v
      
 1. <img src="VPLEN2.jpg" alt="Plaque VPLEN2" width="200"/> - **Plaque VPLEN2**
 2. <img src="VPLAD2.jpg" alt="Plaque VPLAD2" width="200"/> - **Plaque VPLAD2**
+3. <img src="V11IS1C.png" alt="Plaque V11IS1C" width="200"/> - **Plaque V11IS1C**
+4. <img src="V11K250.jpg" alt="Connecteur V11K250" width="200"/> - **Connecteur V11K250**
 
 ## Thermoclamp
  *- Les thermoclamps offrent un contrôle thermique précis lors des interventions chirurgicales, assurant la sécurité du patient et du personnel médical.*
