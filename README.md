@@ -1,4 +1,3 @@
-# Lamidey Noury: Images
 **<span style="color:blue;">Bienvenue dans le référentiel d'images Lamidey Noury Medical, mettant en vedette une variété d'outils médicaux de haute qualité. Explorez les différentes catégories ci-dessous pour découvrir les produits disponibles.</span>**
 
 
