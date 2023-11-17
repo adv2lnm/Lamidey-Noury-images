@@ -784,7 +784,7 @@ Les pédales V11SM1DN et V11SM2FN offrent un contrôle précis et réactif, faci
   <summary>Cliquez pour afficher</summary>
 
 ### Adaptateurs
-- [Adaptateurs](PDFs/FT-Adaptateurs-210521_FR.pdf)
+- [Adaptateurs](FT-Adaptateurs-210521_FR.pdf)
 
 ### Argons
 - [Argons](PDFs/FT-module_Argon-0822-FR.pdf)
