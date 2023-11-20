@@ -267,7 +267,7 @@
 
    <img src="V11B4CI.jpg" alt="Électrode V11B4CI" width="200"/>
 
-## Couteaux
+### Couteaux
 
 - **<span class="blue-text">Électrode V11CC2L</span>**
 
@@ -301,7 +301,7 @@
 
    <img src="V11CD2L.jpg" alt="Électrode V11CD2L" width="200"/>
 
-## Conisation
+### Conisation
 
 - **<span class="blue-text">Électrode V11GCT2</span>**
 
@@ -339,7 +339,7 @@
 
    <img src="V11GCT42.png" alt="Image V11GCT42" width="200"/>
 
-## UU
+### UU
 
 - **<span class="blue-text">Électrode VEUC1</span>**
 
@@ -363,7 +363,7 @@
 
 ## Guéridon
 
-Le guéridon V10GALP est un équipement médical essentiel, offrant une surface stable et pratique pour le positionnement d'instruments et de fournitures médicales pendant les procédures.
+***Le guéridon V10GALP est un équipement médical essentiel, offrant une surface stable et pratique pour le positionnement d'instruments et de fournitures médicales pendant les procédures.***
 
 - **<span class="blue-text">Guéridon V10GALP</span>**
 
@@ -371,7 +371,7 @@ Le guéridon V10GALP est un équipement médical essentiel, offrant une surface 
 
 ## Manches
 
-Découvrez notre gamme de manches ergonomiques conçus pour une utilisation confortable et précise lors d'interventions médicales.
+***Découvrez notre gamme de manches ergonomiques conçus pour une utilisation confortable et précise lors d'interventions médicales.***
 
 - **<span class="blue-text">Manche VSUC1</span>**
 
@@ -411,7 +411,7 @@ Découvrez notre gamme de manches ergonomiques conçus pour une utilisation conf
 
 ## Pédales
 
-Les pédales V11SM1DN et V11SM2FN offrent un contrôle précis et réactif, facilitant l'activation d'instruments médicaux compatibles.
+***Les pédales V11SM1DN et V11SM2FN offrent un contrôle précis et réactif, facilitant l'activation d'instruments médicaux compatibles.***
 
 - **Pédale V11SM1DN**
   
