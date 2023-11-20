@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 remote_theme: "mmistakes/minimal-mistakes"
+=======
+theme: jekyll-theme-minimal-mistakes
+>>>>>>> f8a5c0f33c32d9f19cb03b2404022322a5ddd027
