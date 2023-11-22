@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Vim
 *~
 *.sw[p_]
@@ -27,3 +28,18 @@ codekit-config.json
 .sass-cache
 _asset_bundler_cache
 _site
+=======
+# project
+_site
+.sass-cache
+.vagrant
+
+# general
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+Gemfile.lock
+
+beautiful-jekyll-theme-*.gem
+>>>>>>> 9308314e191cb4e9e1b4b6c494a86189615ed2bf

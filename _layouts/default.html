@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD
 ---
 
 <!doctype html>
@@ -39,3 +40,29 @@
 
   </body>
 </html>
+=======
+layout: base
+---
+
+<div class="intro-header"></div>
+
+<main class="{% if page.full-width %} container-fluid {% else %} container-md {% endif %}">
+  {% if page.before-content %}
+    <div class="before-content">
+      {% for file in page.before-content %}
+        {% include {{ file }} %}
+      {% endfor %}
+    </div>
+  {% endif %}
+
+  {{ content }}
+
+  {% if page.after-content %}
+    <div class="after-content">
+      {% for file in page.after-content %}
+        {% include {{ file }} %}
+      {% endfor %}
+    </div>
+  {% endif %}
+</main>
+>>>>>>> 9308314e191cb4e9e1b4b6c494a86189615ed2bf
